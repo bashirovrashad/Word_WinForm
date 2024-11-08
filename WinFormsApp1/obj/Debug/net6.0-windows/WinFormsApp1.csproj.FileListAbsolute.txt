@@ -1,0 +1,48 @@
+C:\Users\NITRO\source\repos\word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\NITRO\source\repos\word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\NITRO\source\repos\word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\NITRO\source\repos\word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\NITRO\source\repos\word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\NITRO\source\repos\word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\word-master\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\NITRO\Desktop\projeler\New folder (3)\Word\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
